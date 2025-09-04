@@ -13,3 +13,7 @@ console.log(
 const gameName = new String('Tufail');
 
 console.log(gameName.charAt(0));
+console.log(gameName.indexOf('f'));
+
+const name ="Tufail with baba";
+console.log(name.replace('with','-'));
