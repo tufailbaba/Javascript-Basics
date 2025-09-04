@@ -7,3 +7,7 @@ console.log(balance);
 console.log(balance.toString().length)
 const numbers = 1000000;
 console.log(numbers.toLocaleString('en-IN'));
+
+////MATHS/////
+
+
