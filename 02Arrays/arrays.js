@@ -21,3 +21,5 @@ let score3 = 70;
 
 console.log(Array.of(score1, score2, score3));
 
+
+
