@@ -30,3 +30,4 @@ console.log(obj4);
 console.log(Object.keys(obj4));
 console.log(Object.values(obj4));
 console.log(Object.entries(obj4));
+
