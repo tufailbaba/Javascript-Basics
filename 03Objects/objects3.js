@@ -10,3 +10,8 @@ const{courseInstructor: instructor} = course;
 console.log(instructor);
 
 
+const instructorDetails = {
+    name: "Tufail",
+    courseName : "JavaScript",
+    price : "free"
+}
