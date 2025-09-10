@@ -25,3 +25,6 @@ console.log(doMath(7, 3));
 const numbers = [1, 2, 3, 4, 5];
 const doubled = numbers.map(n => n * 2);
 console.log(doubled);
+
+const myArray = [1, 2, 3, 4, 5];
+myArray.forEach(n => console.log(n));
