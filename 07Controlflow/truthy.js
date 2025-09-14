@@ -11,3 +11,11 @@ if (Object.keys(emptyObj).length === 0) {
 } else {
     console.log("Object is not empty");
 }
+ const userAge = 18;
+ if (userAge >= 18) {
+    console.log("User is an adult");    
+    } else {    
+    console.log("User is a minor");
+    
+    
+ }
