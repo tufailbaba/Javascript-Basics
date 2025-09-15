@@ -17,5 +17,10 @@ if (Object.keys(emptyObj).length === 0) {
     } else {    
     console.log("User is a minor");
     
-    
- }
+}
+const userName = "John";
+if (userName) {
+    console.log("User name is valid");
+} else {
+    console.log("User name is invalid");
+}   
